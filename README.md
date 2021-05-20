@@ -6,9 +6,9 @@ https://user-images.githubusercontent.com/70866930/118903839-dc38dd80-b918-11eb-
 
 ## Project 2: Sharing, Marketplace and Exchange Workshop
 
-[SMEW_Project_Submission_Kaushik.pdf](https://github.com/kausshhik/snowflake_essentials_projects/files/6512235/SMEW_Project_Submission_Kaushik.pdf)
+[SMEW_Project_Submission_Kaushik.pdf](https://github.com/kausshhik/snowflake_essentials_projects/blob/main/SMEW_Project_Submission_Kaushik.pdf)
 
 ## Project 3: Data Application Builder Workshop
 
-[Data_Application_Builders_Workshop_Kaushik.pdf](https://github.com/kausshhik/snowflake_essentials_projects/files/6512239/Data_Application_Builders_Workshop_Kaushik.pdf)
+[Data_Application_Builders_Workshop_Kaushik.pdf](https://github.com/kausshhik/snowflake_essentials_projects/blob/main/Data_Application_Builders_Workshop_Kaushik.pdf)
 
